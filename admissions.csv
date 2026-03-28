@@ -1,0 +1,601 @@
+admission_id,patient_id,doctor_id,admission_date,discharge_date,diagnosis_code,diagnosis_description,admission_type,length_of_stay_days,room_charge,attending_notes
+1,101,10,2021-08-26,2021-08-28,K57.30,Diverticulosis of large intestine,Elective,2,2326.15,Referred to specialist
+2,250,20,2019-07-22,2019-07-28,I63.9,Cerebral infarction unspecified,Newborn,6,17983.85,Follow-up with primary care
+3,172,17,2020-12-05,2020-12-06,M17.11,Primary osteoarthritis right knee,Urgent,1,1747.94,Discharged with home health referral
+4,146,23,2023-12-27,2023-12-30,G43.909,Migraine unspecified,Newborn,3,4720.84,
+5,86,41,2022-07-16,2022-08-05,J44.1,COPD with acute exacerbation,Newborn,20,61840.64,Monitoring for complications
+6,161,21,2022-05-24,2022-06-14,C50.911,Malignant neoplasm of breast,Urgent,21,67132.13,Follow-up with primary care
+7,212,11,2023-01-30,2023-02-05,L03.115,Cellulitis of right lower limb,Elective,6,16850.78,Labs pending at discharge
+8,53,7,2022-01-28,,N20.0,Calculus of kidney,Newborn,2,3743.87,
+9,135,40,2020-04-14,2020-04-22,J06.9,Acute upper respiratory infection,Urgent,8,15972.27,Discharged with home health referral
+10,15,3,2023-11-05,2023-11-21,E11.40,Type 2 diabetes with diabetic neuropathy,Urgent,16,50422.81,Discharged with home health referral
+11,277,12,2021-12-08,2021-12-29,T14.90,Injury unspecified,Newborn,21,34357.80,Requires follow-up in 2 weeks
+12,227,20,2020-09-13,2020-09-14,G43.909,Migraine unspecified,Elective,1,2847.39,Patient responded well to treatment
+13,252,49,2023-06-23,2023-07-03,L03.115,Cellulitis of right lower limb,Newborn,10,29512.72,Labs pending at discharge
+14,203,16,2023-08-24,2023-09-06,K57.30,Diverticulosis of large intestine,Newborn,13,13180.26,Patient stable at discharge
+15,146,42,2021-04-25,2021-05-02,R07.9,Chest pain unspecified,Urgent,7,9047.50,Follow-up with primary care
+16,140,45,2019-02-09,2019-02-14,F32.1,Major depressive disorder,Urgent,5,11222.11,
+17,138,9,2020-04-21,,K57.30,Diverticulosis of large intestine,Emergency,3,4159.22,Follow-up with primary care
+18,191,30,2019-06-14,2019-06-19,I10,Essential hypertension,Urgent,5,14471.31,Monitoring for complications
+19,129,53,2024-06-18,2024-06-25,I63.9,Cerebral infarction unspecified,Emergency,7,13971.96,
+20,236,48,2021-08-26,2021-09-01,E78.5,Hyperlipidemia,Elective,6,19966.69,Requires follow-up in 2 weeks
+21,130,31,2023-12-23,2023-12-25,F32.1,Major depressive disorder,Urgent,2,2776.06,Referred to specialist
+22,8,11,2021-03-21,2021-03-22,L03.115,Cellulitis of right lower limb,Emergency,1,2368.91,Discharged with home health referral
+23,191,50,2019-07-07,2019-07-27,E11.9,Type 2 diabetes mellitus,Newborn,20,68361.19,
+24,183,42,2019-09-15,2019-09-19,G43.909,Migraine unspecified,Emergency,4,9230.18,Follow-up with primary care
+25,99,2,2020-05-28,2020-06-01,S82.001A,Fracture of patella,Elective,4,9237.47,Discharged with home health referral
+26,279,23,2023-11-12,2023-12-02,G43.909,Migraine unspecified,Urgent,20,45944.10,Patient stable at discharge
+27,135,35,2023-02-11,2023-02-17,N18.3,Chronic kidney disease stage 3,Newborn,6,14839.70,Referred to specialist
+28,33,43,2020-01-24,2020-02-10,T14.90,Injury unspecified,Newborn,17,48747.19,Labs pending at discharge
+29,165,8,2023-09-07,2023-09-10,R07.9,Chest pain unspecified,Emergency,3,4036.84,
+30,293,42,2021-12-12,2022-01-01,M17.11,Primary osteoarthritis right knee,Newborn,20,29820.68,Requires follow-up in 2 weeks
+31,7,60,2024-03-16,2024-03-19,I48.91,Unspecified atrial fibrillation,Newborn,3,7575.23,Labs pending at discharge
+32,189,51,2021-12-19,2021-12-21,T14.90,Injury unspecified,Urgent,2,6106.07,Requires follow-up in 2 weeks
+33,52,47,2020-01-31,2020-02-06,J44.1,COPD with acute exacerbation,Elective,6,14930.27,Labs pending at discharge
+34,55,50,2022-12-09,2022-12-23,S82.001A,Fracture of patella,Newborn,14,17505.39,Referred to specialist
+35,81,35,2024-01-23,2024-02-03,K80.20,Calculus of gallbladder,Urgent,11,38406.45,Labs pending at discharge
+36,166,39,2021-02-07,2021-02-13,G43.909,Migraine unspecified,Elective,6,20378.76,Patient responded well to treatment
+37,146,39,2019-01-14,2019-01-24,N18.3,Chronic kidney disease stage 3,Urgent,10,13800.22,Patient stable at discharge
+38,284,33,2019-07-13,2019-07-17,I25.10,Atherosclerotic heart disease,Elective,4,4694.81,Monitoring for complications
+39,132,52,2023-02-12,2023-02-18,G43.909,Migraine unspecified,Elective,6,12617.04,Requires follow-up in 2 weeks
+40,154,3,2019-06-10,2019-06-12,L03.115,Cellulitis of right lower limb,Newborn,2,3405.70,Requires follow-up in 2 weeks
+41,117,48,2022-07-22,2022-07-29,Z38.00,Single liveborn infant,Emergency,7,15510.85,Referred to specialist
+42,258,45,2024-06-11,2024-06-26,I10,Essential hypertension,Newborn,15,35297.82,Labs pending at discharge
+43,76,9,2022-01-27,2022-02-01,S82.001A,Fracture of patella,Emergency,5,10774.61,
+44,70,31,2022-08-28,2022-09-16,N39.0,Urinary tract infection,Newborn,19,46800.64,Requires follow-up in 2 weeks
+45,137,50,2022-10-07,2022-10-14,E11.9,Type 2 diabetes mellitus,Emergency,7,9200.26,Patient stable at discharge
+46,87,23,2022-06-30,2022-07-05,R07.9,Chest pain unspecified,Newborn,5,16476.88,Discharged with home health referral
+47,44,8,2023-11-15,2023-11-16,C34.10,Malignant neoplasm of upper lobe bronchus,Elective,1,2971.56,Referred to specialist
+48,108,48,2022-01-28,2022-02-13,I63.9,Cerebral infarction unspecified,Urgent,16,55667.45,Labs pending at discharge
+49,299,58,2019-12-15,2019-12-17,I10,Essential hypertension,Urgent,2,5861.62,
+50,5,5,2023-11-06,,K92.1,Melena,Urgent,4,12568.03,Labs pending at discharge
+51,261,46,2023-11-11,2023-12-01,N18.3,Chronic kidney disease stage 3,Newborn,20,26066.54,Patient responded well to treatment
+52,21,16,2021-09-30,2021-10-13,I63.9,Cerebral infarction unspecified,Urgent,13,11044.87,Patient stable at discharge
+53,121,33,2023-12-05,2023-12-18,I10,Essential hypertension,Urgent,13,,Patient stable at discharge
+54,116,10,2019-06-29,2019-07-04,J44.1,COPD with acute exacerbation,Elective,5,12268.05,Monitoring for complications
+55,294,10,2021-07-08,2021-07-26,J44.1,COPD with acute exacerbation,Urgent,18,46110.17,Monitoring for complications
+56,71,20,2021-05-30,2021-06-05,N20.0,Calculus of kidney,Elective,6,19657.22,Requires follow-up in 2 weeks
+57,95,21,2023-04-17,2023-04-24,N18.3,Chronic kidney disease stage 3,Emergency,7,11333.28,Patient stable at discharge
+58,78,50,2019-02-23,2019-02-28,E11.9,Type 2 diabetes mellitus,Elective,5,11655.08,Patient responded well to treatment
+59,184,6,2021-10-25,2021-10-29,N39.0,Urinary tract infection,Elective,4,7238.76,Discharged with home health referral
+60,84,13,2024-03-10,2024-03-17,G43.909,Migraine unspecified,Emergency,7,18288.31,Discharged with home health referral
+61,225,56,2023-11-11,2023-11-26,C50.911,Malignant neoplasm of breast,Urgent,15,29316.01,Labs pending at discharge
+62,161,26,2021-12-02,2021-12-10,K57.30,Diverticulosis of large intestine,Emergency,8,25359.77,Labs pending at discharge
+63,21,36,2020-08-19,2020-08-23,I10,Essential hypertension,Elective,4,11555.71,Patient stable at discharge
+64,28,45,2023-08-27,2023-09-17,N18.3,Chronic kidney disease stage 3,Newborn,21,57774.07,Discharged with home health referral
+65,202,27,2021-07-18,2021-07-24,I63.9,Cerebral infarction unspecified,Elective,6,19097.28,Discharged with home health referral
+66,64,6,2019-06-24,2019-07-11,K80.20,Calculus of gallbladder,Urgent,17,46963.51,Discharged with home health referral
+67,194,36,2022-03-04,2022-03-09,A41.9,Sepsis unspecified,Urgent,5,5952.20,
+68,158,20,2022-07-06,2022-07-12,K80.20,Calculus of gallbladder,Urgent,6,6931.45,Patient stable at discharge
+69,7,30,2022-05-30,2022-06-03,F32.1,Major depressive disorder,Emergency,4,10322.28,Patient responded well to treatment
+70,126,57,2019-04-11,2019-04-13,Z38.00,Single liveborn infant,Elective,2,3484.71,
+71,296,54,2019-04-11,2019-04-18,J44.1,COPD with acute exacerbation,Emergency,7,8649.24,Discharged with home health referral
+72,234,48,2023-04-23,2023-04-29,I63.9,Cerebral infarction unspecified,Emergency,6,10938.82,Requires follow-up in 2 weeks
+73,150,31,2020-11-05,2020-11-22,C50.911,Malignant neoplasm of breast,Urgent,17,23231.90,
+74,293,47,2021-09-17,2021-09-30,E78.5,Hyperlipidemia,Emergency,13,20480.27,Referred to specialist
+75,67,40,2023-07-13,2023-07-19,J06.9,Acute upper respiratory infection,Newborn,6,8570.09,Requires follow-up in 2 weeks
+76,13,30,2023-06-26,2023-06-30,J18.9,Pneumonia unspecified,Elective,4,6804.96,Patient responded well to treatment
+77,104,45,2020-09-22,2020-10-01,R07.9,Chest pain unspecified,Emergency,9,25838.89,Labs pending at discharge
+78,292,40,2020-02-02,2020-02-09,T14.90,Injury unspecified,Elective,7,18309.74,Discharged with home health referral
+79,247,10,2021-08-05,2021-08-19,N20.0,Calculus of kidney,Urgent,14,13317.64,Referred to specialist
+80,285,35,2019-05-16,2019-05-21,N18.3,Chronic kidney disease stage 3,Urgent,5,4420.84,Discharged with home health referral
+81,293,39,2023-11-06,2023-11-18,Z38.00,Single liveborn infant,Emergency,12,32598.82,
+82,122,24,2021-12-11,2021-12-13,F32.1,Major depressive disorder,Elective,2,5838.70,Follow-up with primary care
+83,260,2,2020-01-25,2020-01-29,N20.0,Calculus of kidney,Elective,4,8855.18,
+84,51,53,2020-02-25,2020-02-29,E78.5,Hyperlipidemia,Elective,4,12539.95,Patient responded well to treatment
+85,45,22,2021-12-02,2021-12-03,C34.10,Malignant neoplasm of upper lobe bronchus,Emergency,1,1642.79,Monitoring for complications
+86,147,18,2022-10-06,2022-10-10,J06.9,Acute upper respiratory infection,Newborn,4,4900.96,Requires follow-up in 2 weeks
+87,106,35,2019-10-17,2019-10-27,N18.3,Chronic kidney disease stage 3,Urgent,10,12624.42,Follow-up with primary care
+88,26,9,2019-08-05,2019-08-06,M17.11,Primary osteoarthritis right knee,Emergency,1,1858.18,Follow-up with primary care
+89,183,20,2024-06-17,2024-06-27,I63.9,Cerebral infarction unspecified,Emergency,10,29946.98,Follow-up with primary care
+90,159,44,2021-08-21,2021-08-29,J06.9,Acute upper respiratory infection,Newborn,8,9504.39,Referred to specialist
+91,201,12,2023-06-04,2023-06-15,M17.11,Primary osteoarthritis right knee,Urgent,11,9698.84,Follow-up with primary care
+92,88,19,2021-11-06,2021-11-10,Z38.00,Single liveborn infant,Elective,4,11804.98,Patient stable at discharge
+93,273,30,2022-06-25,2022-06-30,F32.1,Major depressive disorder,Elective,5,10512.06,Labs pending at discharge
+94,223,37,2019-12-21,2019-12-27,G43.909,Migraine unspecified,Elective,6,14101.85,Follow-up with primary care
+95,167,36,2020-09-22,2020-09-23,J06.9,Acute upper respiratory infection,Elective,1,2650.87,Referred to specialist
+96,254,42,2023-08-01,2023-08-06,E11.9,Type 2 diabetes mellitus,Elective,5,,
+97,77,29,2020-02-05,2020-02-12,L03.115,Cellulitis of right lower limb,Newborn,7,11583.70,Patient stable at discharge
+98,223,46,2022-04-08,2022-04-18,S82.001A,Fracture of patella,Emergency,10,18913.33,Referred to specialist
+99,282,4,2023-10-30,2023-11-13,C50.911,Malignant neoplasm of breast,Emergency,14,27518.85,Labs pending at discharge
+100,208,25,2021-08-30,2021-09-01,L03.115,Cellulitis of right lower limb,Elective,2,6153.97,Patient stable at discharge
+101,65,9,2019-10-22,2019-11-02,M17.11,Primary osteoarthritis right knee,Emergency,11,38209.46,Labs pending at discharge
+102,234,58,2022-06-30,2022-07-06,Z38.00,Single liveborn infant,Newborn,6,11670.82,Monitoring for complications
+103,96,28,2023-10-01,2023-10-09,L03.115,Cellulitis of right lower limb,Newborn,8,12215.81,Patient responded well to treatment
+104,20,37,2022-04-03,2022-04-15,F32.1,Major depressive disorder,Emergency,12,33258.01,Patient stable at discharge
+105,239,34,2021-08-25,2021-08-31,L03.115,Cellulitis of right lower limb,Elective,6,15633.22,Patient stable at discharge
+106,28,58,2021-07-18,2021-08-04,I21.0,ST-elevation myocardial infarction,Newborn,17,39945.01,Patient stable at discharge
+107,149,11,2019-05-06,2019-05-27,L03.115,Cellulitis of right lower limb,Urgent,21,26386.79,Patient responded well to treatment
+108,147,32,2023-10-10,2023-10-15,K57.30,Diverticulosis of large intestine,Emergency,5,7793.12,
+109,58,39,2022-09-11,2022-09-14,L03.115,Cellulitis of right lower limb,Elective,3,4516.15,Patient responded well to treatment
+110,176,6,2023-09-12,2023-09-19,Z38.00,Single liveborn infant,Elective,7,20159.95,Discharged with home health referral
+111,108,37,2022-08-08,2022-08-21,S82.001A,Fracture of patella,Emergency,13,12243.56,Follow-up with primary care
+112,273,15,2021-08-29,2021-09-07,M17.11,Primary osteoarthritis right knee,Newborn,9,,Follow-up with primary care
+113,196,44,2024-02-23,2024-03-05,R07.9,Chest pain unspecified,Emergency,11,33873.91,Patient stable at discharge
+114,172,18,2022-09-02,2022-09-21,J18.9,Pneumonia unspecified,Urgent,19,54862.65,Monitoring for complications
+115,267,22,2022-01-26,2022-01-27,M54.5,Low back pain,Urgent,1,,
+116,54,44,2020-05-30,2020-06-06,R07.9,Chest pain unspecified,Urgent,7,17306.61,Monitoring for complications
+117,63,46,2021-02-08,2021-02-13,E11.9,Type 2 diabetes mellitus,Elective,5,6494.38,Patient stable at discharge
+118,240,43,2024-03-04,2024-03-13,I48.91,Unspecified atrial fibrillation,Newborn,9,24020.98,Patient stable at discharge
+119,83,50,2021-03-06,2021-03-17,E11.9,Type 2 diabetes mellitus,Newborn,11,16469.69,Requires follow-up in 2 weeks
+120,252,60,2022-08-14,2022-08-15,L03.115,Cellulitis of right lower limb,Elective,1,2875.51,Follow-up with primary care
+121,133,7,2023-05-11,,E11.9,Type 2 diabetes mellitus,Urgent,15,32156.91,
+122,20,43,2024-01-27,2024-02-09,R07.9,Chest pain unspecified,Urgent,13,28489.94,Labs pending at discharge
+123,207,55,2022-01-11,2022-01-12,R07.9,Chest pain unspecified,Emergency,1,2661.01,
+124,275,60,2021-03-31,2021-04-02,J44.1,COPD with acute exacerbation,Urgent,2,6777.65,Referred to specialist
+125,42,54,2022-08-19,2022-08-26,J06.9,Acute upper respiratory infection,Urgent,7,6343.36,Labs pending at discharge
+126,55,41,2023-12-18,2023-12-26,N39.0,Urinary tract infection,Emergency,8,9422.77,Monitoring for complications
+127,251,25,2021-12-29,2022-01-13,L03.115,Cellulitis of right lower limb,Newborn,15,12664.94,Patient responded well to treatment
+128,208,8,2023-02-26,2023-02-28,T14.90,Injury unspecified,Elective,2,1799.14,Follow-up with primary care
+129,24,16,2019-12-19,2019-12-20,N18.3,Chronic kidney disease stage 3,Emergency,1,3016.00,Requires follow-up in 2 weeks
+130,55,8,2023-07-06,2023-07-13,R07.9,Chest pain unspecified,Emergency,7,21398.43,Requires follow-up in 2 weeks
+131,295,35,2022-04-29,2022-05-05,N18.3,Chronic kidney disease stage 3,Emergency,6,9237.07,Referred to specialist
+132,284,11,2019-07-24,2019-07-29,L03.115,Cellulitis of right lower limb,Elective,5,6129.67,
+133,4,12,2021-05-02,2021-05-18,C50.911,Malignant neoplasm of breast,Urgent,16,21706.12,Labs pending at discharge
+134,123,12,2023-01-08,2023-01-13,I10,Essential hypertension,Elective,5,12467.09,Patient responded well to treatment
+135,286,16,2022-06-21,2022-07-05,E78.5,Hyperlipidemia,Emergency,14,31601.52,Monitoring for complications
+136,142,4,2021-10-15,2021-10-21,C34.10,Malignant neoplasm of upper lobe bronchus,Newborn,6,19747.30,Monitoring for complications
+137,223,17,2019-08-02,2019-08-11,S82.001A,Fracture of patella,Emergency,9,26287.46,
+138,121,47,2020-02-12,2020-02-23,J44.1,COPD with acute exacerbation,Newborn,11,12070.95,Labs pending at discharge
+139,103,25,2022-04-13,2022-04-29,E11.9,Type 2 diabetes mellitus,Newborn,16,31629.37,Discharged with home health referral
+140,199,24,2024-06-20,2024-06-29,F32.1,Major depressive disorder,Urgent,9,10291.25,
+141,70,8,2019-12-17,2019-12-28,K80.20,Calculus of gallbladder,Newborn,11,17566.30,Discharged with home health referral
+142,296,36,2023-10-22,2023-11-08,E11.9,Type 2 diabetes mellitus,Newborn,17,59300.99,Patient stable at discharge
+143,8,47,2020-11-01,2020-11-06,J18.9,Pneumonia unspecified,Elective,5,16520.98,Patient responded well to treatment
+144,214,3,2021-05-21,2021-05-28,T14.90,Injury unspecified,Emergency,7,20682.53,Monitoring for complications
+145,43,36,2024-04-29,2024-05-06,C50.911,Malignant neoplasm of breast,Newborn,7,11190.44,
+146,246,43,2024-06-22,2024-06-30,T14.90,Injury unspecified,Emergency,8,25282.70,Referred to specialist
+147,238,46,2021-02-27,2021-03-08,E11.40,Type 2 diabetes with diabetic neuropathy,Emergency,9,17549.42,Monitoring for complications
+148,42,40,2021-11-20,2021-11-21,K57.30,Diverticulosis of large intestine,Emergency,1,1787.10,Discharged with home health referral
+149,287,46,2020-11-16,2020-11-21,N18.3,Chronic kidney disease stage 3,Elective,5,10459.66,Monitoring for complications
+150,116,21,2020-07-21,2020-07-23,T14.90,Injury unspecified,Newborn,2,3464.22,Requires follow-up in 2 weeks
+151,241,46,2022-06-25,2022-07-07,N18.3,Chronic kidney disease stage 3,Newborn,12,40229.84,Requires follow-up in 2 weeks
+152,97,58,2021-03-11,2021-03-16,E11.9,Type 2 diabetes mellitus,Emergency,5,5038.79,
+153,76,32,2020-08-23,2020-09-03,K92.1,Melena,Emergency,11,12721.21,Patient responded well to treatment
+154,150,13,2021-04-23,2021-05-12,I63.9,Cerebral infarction unspecified,Urgent,19,48342.43,Follow-up with primary care
+155,235,20,2023-06-05,2023-06-07,G43.909,Migraine unspecified,Elective,2,6841.91,
+156,181,19,2022-12-28,2022-12-31,L03.115,Cellulitis of right lower limb,Elective,3,3820.41,Discharged with home health referral
+157,83,16,2021-06-21,2021-06-24,J44.1,COPD with acute exacerbation,Elective,3,,Referred to specialist
+158,76,24,2019-09-06,2019-09-07,F32.1,Major depressive disorder,Urgent,1,2148.43,Referred to specialist
+159,80,1,2022-08-18,2022-08-28,G43.909,Migraine unspecified,Urgent,10,15825.33,Discharged with home health referral
+160,290,47,2022-11-12,2022-11-16,K80.20,Calculus of gallbladder,Urgent,4,12921.88,Patient stable at discharge
+161,13,26,2021-01-01,2021-01-04,C34.10,Malignant neoplasm of upper lobe bronchus,Newborn,3,7326.02,Patient stable at discharge
+162,101,2,2024-06-21,2024-06-28,L03.115,Cellulitis of right lower limb,Emergency,7,11605.62,Referred to specialist
+163,204,10,2021-03-01,,A41.9,Sepsis unspecified,Urgent,12,20775.41,Requires follow-up in 2 weeks
+164,111,47,2023-07-04,2023-07-19,K57.30,Diverticulosis of large intestine,Newborn,15,44629.75,Labs pending at discharge
+165,72,54,2020-03-01,2020-03-05,E11.9,Type 2 diabetes mellitus,Elective,4,8873.25,Labs pending at discharge
+166,46,1,2019-12-25,2020-01-12,I48.91,Unspecified atrial fibrillation,Newborn,18,42000.73,Labs pending at discharge
+167,149,36,2021-10-08,2021-10-26,E78.5,Hyperlipidemia,Urgent,18,25311.68,Patient stable at discharge
+168,242,8,2021-05-04,2021-05-10,N20.0,Calculus of kidney,Urgent,6,15943.06,
+169,142,32,2022-04-05,2022-04-21,E11.9,Type 2 diabetes mellitus,Urgent,16,50312.54,Requires follow-up in 2 weeks
+170,192,33,2019-11-30,2019-12-19,I21.0,ST-elevation myocardial infarction,Urgent,19,31599.64,
+171,84,4,2019-04-10,2019-04-20,C50.911,Malignant neoplasm of breast,Urgent,10,25251.56,Discharged with home health referral
+172,49,39,2023-11-22,2023-12-03,G43.909,Migraine unspecified,Urgent,11,29143.52,Referred to specialist
+173,50,35,2019-10-08,2019-10-13,N18.3,Chronic kidney disease stage 3,Emergency,5,10546.14,Requires follow-up in 2 weeks
+174,112,10,2021-05-04,2021-05-06,J18.9,Pneumonia unspecified,Emergency,2,,Referred to specialist
+175,72,53,2022-12-24,2022-12-25,G43.909,Migraine unspecified,Elective,1,1120.21,Monitoring for complications
+176,158,9,2022-11-15,2022-11-19,M54.5,Low back pain,Newborn,4,11566.68,
+177,56,3,2021-08-18,2021-08-23,E78.5,Hyperlipidemia,Emergency,5,,
+178,64,59,2020-01-14,2020-01-15,L03.115,Cellulitis of right lower limb,Elective,1,3083.83,Referred to specialist
+179,181,11,2021-10-31,2021-11-01,J06.9,Acute upper respiratory infection,Elective,1,,Monitoring for complications
+180,145,11,2024-06-16,2024-06-20,G43.909,Migraine unspecified,Emergency,4,12394.01,Discharged with home health referral
+181,226,44,2021-02-16,2021-03-02,M54.5,Low back pain,Urgent,14,19801.55,Requires follow-up in 2 weeks
+182,239,8,2022-12-14,2022-12-24,T14.90,Injury unspecified,Urgent,10,9096.43,
+183,146,30,2020-04-07,2020-04-25,I63.9,Cerebral infarction unspecified,Newborn,18,62269.17,Follow-up with primary care
+184,189,12,2021-03-22,2021-03-31,T14.90,Injury unspecified,Emergency,9,9265.64,Requires follow-up in 2 weeks
+185,87,5,2020-02-15,2020-03-06,F32.1,Major depressive disorder,Urgent,20,37831.61,Follow-up with primary care
+186,143,49,2023-03-29,2023-04-19,L03.115,Cellulitis of right lower limb,Urgent,21,36990.72,Follow-up with primary care
+187,262,18,2019-09-08,2019-09-16,K80.20,Calculus of gallbladder,Emergency,8,19972.81,
+188,28,54,2024-06-13,2024-06-20,M17.11,Primary osteoarthritis right knee,Emergency,7,11779.47,Requires follow-up in 2 weeks
+189,267,50,2020-08-24,2020-08-28,E11.40,Type 2 diabetes with diabetic neuropathy,Elective,4,9058.33,Patient responded well to treatment
+190,17,28,2021-07-10,2021-07-21,J18.9,Pneumonia unspecified,Newborn,11,,Patient stable at discharge
+191,85,32,2021-09-25,2021-09-29,K80.20,Calculus of gallbladder,Newborn,4,8497.98,Follow-up with primary care
+192,244,36,2021-03-12,2021-03-20,E78.5,Hyperlipidemia,Emergency,8,14560.43,Patient stable at discharge
+193,165,4,2023-09-11,2023-09-14,C34.10,Malignant neoplasm of upper lobe bronchus,Elective,3,7130.13,Labs pending at discharge
+194,50,28,2020-12-20,2020-12-22,S82.001A,Fracture of patella,Newborn,2,2937.12,Requires follow-up in 2 weeks
+195,157,8,2019-03-18,2019-04-02,R07.9,Chest pain unspecified,Urgent,15,29110.16,Patient responded well to treatment
+196,241,38,2022-03-14,2022-03-27,E11.40,Type 2 diabetes with diabetic neuropathy,Newborn,13,13830.17,Monitoring for complications
+197,173,32,2019-12-08,2019-12-28,K57.30,Diverticulosis of large intestine,Urgent,20,68349.10,Requires follow-up in 2 weeks
+198,275,14,2022-03-20,2022-04-02,I21.0,ST-elevation myocardial infarction,Urgent,13,32322.49,Requires follow-up in 2 weeks
+199,173,18,2021-05-24,2021-05-31,R07.9,Chest pain unspecified,Newborn,7,7048.90,Patient stable at discharge
+200,222,43,2021-04-03,2021-04-12,R07.9,Chest pain unspecified,Newborn,9,18213.46,Patient responded well to treatment
+201,265,56,2022-09-15,2022-09-18,I25.10,Atherosclerotic heart disease,Elective,3,6715.03,Labs pending at discharge
+202,290,47,2021-01-16,2021-01-18,E78.5,Hyperlipidemia,Elective,2,5630.74,Labs pending at discharge
+203,164,56,2023-09-29,2023-10-02,E11.9,Type 2 diabetes mellitus,Elective,3,7632.95,Labs pending at discharge
+204,123,8,2023-06-21,2023-06-25,R07.9,Chest pain unspecified,Elective,4,13905.97,Monitoring for complications
+205,82,18,2022-09-10,2022-09-28,K92.1,Melena,Urgent,18,55832.52,Patient responded well to treatment
+206,29,56,2023-11-11,2023-11-14,J44.1,COPD with acute exacerbation,Urgent,3,5696.76,Requires follow-up in 2 weeks
+207,204,54,2019-08-18,2019-08-24,N18.3,Chronic kidney disease stage 3,Elective,6,6754.41,Patient stable at discharge
+208,255,57,2023-05-03,2023-05-09,Z38.00,Single liveborn infant,Emergency,6,16743.23,Labs pending at discharge
+209,112,10,2021-06-19,2021-07-03,J18.9,Pneumonia unspecified,Urgent,14,33482.38,Requires follow-up in 2 weeks
+210,163,35,2023-12-07,2023-12-12,N18.3,Chronic kidney disease stage 3,Urgent,5,13661.56,
+211,18,54,2022-11-15,2022-11-20,R07.9,Chest pain unspecified,Emergency,5,8175.12,Requires follow-up in 2 weeks
+212,274,56,2019-01-17,2019-01-30,I25.10,Atherosclerotic heart disease,Newborn,13,42619.23,Monitoring for complications
+213,153,14,2022-07-17,2022-07-28,M54.5,Low back pain,Newborn,11,31572.20,
+214,42,53,2023-02-18,2023-03-04,N39.0,Urinary tract infection,Newborn,14,23776.90,Requires follow-up in 2 weeks
+215,83,45,2021-05-11,2021-05-31,E11.9,Type 2 diabetes mellitus,Urgent,20,45577.30,Patient responded well to treatment
+216,95,41,2019-01-07,2019-01-09,K57.30,Diverticulosis of large intestine,Elective,2,3294.10,Discharged with home health referral
+217,211,51,2023-11-24,2023-11-29,K80.20,Calculus of gallbladder,Newborn,5,13280.80,Monitoring for complications
+218,44,27,2024-04-18,2024-05-07,G43.909,Migraine unspecified,Newborn,19,63838.00,Monitoring for complications
+219,46,30,2021-04-01,2021-04-08,F32.1,Major depressive disorder,Emergency,7,8420.85,Requires follow-up in 2 weeks
+220,8,46,2019-08-31,2019-09-08,N18.3,Chronic kidney disease stage 3,Newborn,8,10515.75,Patient stable at discharge
+221,254,25,2023-08-15,2023-08-21,L03.115,Cellulitis of right lower limb,Elective,6,11576.96,
+222,149,17,2021-01-27,2021-02-02,S82.001A,Fracture of patella,Elective,6,6188.97,Labs pending at discharge
+223,109,46,2019-05-30,2019-06-03,N18.3,Chronic kidney disease stage 3,Urgent,4,3762.82,Referred to specialist
+224,24,1,2024-06-24,2024-06-30,I25.10,Atherosclerotic heart disease,Urgent,13,15041.56,
+225,92,17,2023-12-03,2023-12-18,S82.001A,Fracture of patella,Urgent,15,24851.35,
+226,60,21,2023-11-21,2023-11-30,R07.9,Chest pain unspecified,Newborn,9,29707.56,Patient stable at discharge
+227,265,21,2023-02-18,2023-03-06,R07.9,Chest pain unspecified,Urgent,16,19334.64,Follow-up with primary care
+228,28,13,2019-03-15,2019-03-18,I63.9,Cerebral infarction unspecified,Elective,3,6183.78,Follow-up with primary care
+229,21,29,2021-10-06,2021-10-10,L03.115,Cellulitis of right lower limb,Newborn,4,12562.30,
+230,146,12,2022-02-27,2022-03-18,K57.30,Diverticulosis of large intestine,Urgent,19,,Discharged with home health referral
+231,214,59,2023-12-23,2023-12-24,J44.1,COPD with acute exacerbation,Emergency,1,3449.60,Requires follow-up in 2 weeks
+232,166,10,2021-07-18,2021-08-08,J44.1,COPD with acute exacerbation,Newborn,21,,Follow-up with primary care
+233,167,47,2020-03-08,2020-03-15,I25.10,Atherosclerotic heart disease,Elective,7,11707.93,
+234,196,6,2024-05-30,,M54.5,Low back pain,Elective,1,1362.20,Discharged with home health referral
+235,62,20,2024-01-25,2024-02-14,G43.909,Migraine unspecified,Urgent,20,51938.10,Follow-up with primary care
+236,229,57,2019-07-04,2019-07-18,K92.1,Melena,Newborn,14,34404.20,Patient responded well to treatment
+237,263,22,2022-08-19,2022-08-23,M17.11,Primary osteoarthritis right knee,Elective,4,10190.03,Requires follow-up in 2 weeks
+238,245,20,2023-09-20,2023-09-28,I63.9,Cerebral infarction unspecified,Urgent,8,,
+239,24,33,2019-07-13,2019-07-28,A41.9,Sepsis unspecified,Newborn,15,35023.37,Requires follow-up in 2 weeks
+240,258,2,2023-05-30,2023-06-06,L03.115,Cellulitis of right lower limb,Elective,7,7174.19,Follow-up with primary care
+241,231,40,2020-03-08,2020-03-09,J44.1,COPD with acute exacerbation,Elective,1,2430.94,
+242,274,2,2019-12-18,2019-12-26,L03.115,Cellulitis of right lower limb,Emergency,8,15149.98,Follow-up with primary care
+243,156,40,2022-11-15,2022-11-28,Z38.00,Single liveborn infant,Urgent,13,13475.99,Patient responded well to treatment
+244,97,55,2022-08-23,2022-08-27,J06.9,Acute upper respiratory infection,Elective,4,12468.45,
+245,238,10,2019-12-07,2019-12-19,J18.9,Pneumonia unspecified,Emergency,12,40829.29,Monitoring for complications
+246,104,19,2020-11-14,2020-11-16,L03.115,Cellulitis of right lower limb,Emergency,2,5450.70,Patient stable at discharge
+247,19,32,2020-04-19,2020-04-21,K57.30,Diverticulosis of large intestine,Newborn,2,3878.82,
+248,214,57,2021-07-07,,N39.0,Urinary tract infection,Urgent,14,22086.81,Monitoring for complications
+249,260,15,2024-03-02,2024-03-22,M17.11,Primary osteoarthritis right knee,Urgent,20,54620.75,Labs pending at discharge
+250,214,54,2023-06-19,2023-07-05,I48.91,Unspecified atrial fibrillation,Urgent,16,49283.75,Requires follow-up in 2 weeks
+251,248,9,2019-07-26,2019-08-09,M54.5,Low back pain,Newborn,14,29862.81,Patient responded well to treatment
+252,184,57,2019-12-24,2019-12-25,M17.11,Primary osteoarthritis right knee,Elective,1,1711.88,Monitoring for complications
+253,250,17,2023-04-25,2023-04-27,R07.9,Chest pain unspecified,Urgent,2,4607.92,Requires follow-up in 2 weeks
+254,26,60,2024-05-25,2024-05-29,R07.9,Chest pain unspecified,Newborn,4,11641.85,Requires follow-up in 2 weeks
+255,288,3,2023-11-19,2023-11-25,R07.9,Chest pain unspecified,Emergency,6,9532.39,Requires follow-up in 2 weeks
+256,79,42,2019-09-09,2019-09-13,T14.90,Injury unspecified,Elective,4,,Follow-up with primary care
+257,175,19,2021-02-01,2021-02-15,L03.115,Cellulitis of right lower limb,Urgent,14,36336.82,Labs pending at discharge
+258,117,9,2024-01-14,2024-01-29,A41.9,Sepsis unspecified,Newborn,15,32904.29,Follow-up with primary care
+259,75,50,2020-11-23,2020-11-30,E11.9,Type 2 diabetes mellitus,Emergency,7,8705.74,Discharged with home health referral
+260,295,4,2021-05-08,2021-05-21,C50.911,Malignant neoplasm of breast,Urgent,13,34997.74,Referred to specialist
+261,177,1,2022-12-05,2022-12-09,N20.0,Calculus of kidney,Elective,4,12785.86,Follow-up with primary care
+262,177,57,2023-05-08,2023-05-15,I48.91,Unspecified atrial fibrillation,Newborn,7,7192.91,Discharged with home health referral
+263,267,35,2021-12-03,2021-12-14,N18.3,Chronic kidney disease stage 3,Urgent,11,,Patient stable at discharge
+264,124,54,2021-10-31,2021-11-04,K57.30,Diverticulosis of large intestine,Newborn,4,12289.10,Requires follow-up in 2 weeks
+265,25,49,2020-09-02,2020-09-21,J18.9,Pneumonia unspecified,Newborn,19,38446.45,Monitoring for complications
+266,180,20,2021-11-30,2021-12-08,I63.9,Cerebral infarction unspecified,Newborn,8,17555.36,Follow-up with primary care
+267,51,10,2019-06-17,2019-06-20,T14.90,Injury unspecified,Newborn,3,9596.93,Referred to specialist
+268,270,26,2023-11-21,2023-11-30,E78.5,Hyperlipidemia,Newborn,9,22666.01,Follow-up with primary care
+269,214,53,2022-12-27,2023-01-11,I63.9,Cerebral infarction unspecified,Newborn,15,40533.25,
+270,109,30,2024-03-02,2024-03-06,F32.1,Major depressive disorder,Urgent,4,7613.09,Patient responded well to treatment
+271,268,10,2020-09-13,2020-09-23,J44.1,COPD with acute exacerbation,Urgent,10,29362.50,Patient responded well to treatment
+272,157,57,2019-01-05,2019-01-09,M54.5,Low back pain,Newborn,4,,Patient stable at discharge
+273,290,29,2021-08-31,2021-09-20,R07.9,Chest pain unspecified,Newborn,20,23480.20,Follow-up with primary care
+274,77,56,2021-03-04,2021-03-12,E11.9,Type 2 diabetes mellitus,Newborn,8,,Follow-up with primary care
+275,143,42,2022-03-17,2022-03-30,M54.5,Low back pain,Emergency,13,21240.57,Requires follow-up in 2 weeks
+276,99,40,2023-03-18,2023-03-23,I10,Essential hypertension,Elective,5,5623.82,Patient responded well to treatment
+277,141,51,2023-07-11,2023-07-21,N18.3,Chronic kidney disease stage 3,Emergency,10,23900.11,Referred to specialist
+278,224,12,2020-06-10,2020-06-13,T14.90,Injury unspecified,Newborn,3,3204.60,
+279,131,50,2022-10-21,2022-10-27,E11.40,Type 2 diabetes with diabetic neuropathy,Newborn,6,20370.20,Patient stable at discharge
+280,200,7,2020-06-12,2020-06-25,A41.9,Sepsis unspecified,Urgent,13,41972.50,Monitoring for complications
+281,253,33,2020-07-05,2020-07-11,I50.9,Heart failure unspecified,Emergency,6,11394.64,Monitoring for complications
+282,10,18,2020-05-19,2020-05-30,L03.115,Cellulitis of right lower limb,Emergency,11,17847.00,
+283,257,14,2022-01-11,2022-01-17,N18.3,Chronic kidney disease stage 3,Urgent,6,13508.08,Follow-up with primary care
+284,22,1,2022-08-30,,T14.90,Injury unspecified,Urgent,6,19922.81,Labs pending at discharge
+285,180,54,2019-04-04,2019-04-10,L03.115,Cellulitis of right lower limb,Urgent,6,13921.92,Requires follow-up in 2 weeks
+286,72,47,2020-03-07,2020-03-27,J44.1,COPD with acute exacerbation,Newborn,20,59311.05,Patient stable at discharge
+287,232,18,2020-03-07,2020-03-22,J44.1,COPD with acute exacerbation,Urgent,15,25302.52,
+288,2,39,2022-10-09,2022-10-16,N20.0,Calculus of kidney,Emergency,7,18763.66,Requires follow-up in 2 weeks
+289,40,35,2020-12-23,2021-01-06,N18.3,Chronic kidney disease stage 3,Emergency,14,25819.19,Patient responded well to treatment
+290,64,30,2019-01-20,2019-01-28,F32.1,Major depressive disorder,Newborn,8,22781.89,Monitoring for complications
+291,47,53,2020-04-24,2020-04-27,I63.9,Cerebral infarction unspecified,Elective,3,6391.99,Patient responded well to treatment
+292,101,53,2022-03-11,2022-03-28,J18.9,Pneumonia unspecified,Urgent,17,38926.94,Discharged with home health referral
+293,34,38,2020-06-15,2020-06-22,E11.9,Type 2 diabetes mellitus,Elective,7,15486.21,Patient responded well to treatment
+294,273,40,2024-04-04,2024-04-15,J06.9,Acute upper respiratory infection,Emergency,11,28105.89,Labs pending at discharge
+295,141,8,2021-01-10,2021-01-27,K80.20,Calculus of gallbladder,Newborn,17,54166.53,Labs pending at discharge
+296,273,29,2020-11-16,2020-11-21,L03.115,Cellulitis of right lower limb,Elective,5,17368.57,Requires follow-up in 2 weeks
+297,128,13,2022-07-06,,G43.909,Migraine unspecified,Emergency,2,,Referred to specialist
+298,129,16,2023-09-01,2023-09-03,C34.10,Malignant neoplasm of upper lobe bronchus,Urgent,2,4406.25,
+299,225,49,2019-06-25,2019-06-26,L03.115,Cellulitis of right lower limb,Emergency,1,3203.23,Patient responded well to treatment
+300,227,4,2019-07-28,2019-08-06,C50.911,Malignant neoplasm of breast,Emergency,9,27853.28,Labs pending at discharge
+301,120,56,2021-02-25,2021-03-12,I21.0,ST-elevation myocardial infarction,Newborn,15,47637.50,Patient responded well to treatment
+302,233,34,2019-07-30,2019-08-09,L03.115,Cellulitis of right lower limb,Emergency,10,24007.94,Discharged with home health referral
+303,261,17,2020-01-16,2020-01-24,S82.001A,Fracture of patella,Newborn,8,7351.93,Referred to specialist
+304,160,38,2019-10-29,2019-11-01,J06.9,Acute upper respiratory infection,Elective,3,4757.62,Discharged with home health referral
+305,30,16,2021-05-14,2021-05-18,T14.90,Injury unspecified,Emergency,4,10117.99,
+306,97,43,2023-10-11,2023-10-30,T14.90,Injury unspecified,Urgent,19,32419.38,Requires follow-up in 2 weeks
+307,233,57,2020-03-25,2020-03-26,I10,Essential hypertension,Newborn,1,2671.70,Follow-up with primary care
+308,170,52,2020-01-13,2020-01-14,F32.1,Major depressive disorder,Newborn,1,,
+309,149,29,2024-06-20,2024-06-24,L03.115,Cellulitis of right lower limb,Emergency,4,5080.78,Referred to specialist
+310,284,16,2023-09-23,,I21.0,ST-elevation myocardial infarction,Elective,1,2629.12,Requires follow-up in 2 weeks
+311,174,60,2021-01-27,2021-02-02,L03.115,Cellulitis of right lower limb,Elective,6,13336.21,Labs pending at discharge
+312,34,8,2020-01-28,2020-02-01,R07.9,Chest pain unspecified,Elective,4,6633.88,Patient responded well to treatment
+313,97,55,2020-05-21,2020-05-23,A41.9,Sepsis unspecified,Urgent,2,3112.40,Follow-up with primary care
+314,108,47,2019-12-09,2019-12-16,J44.1,COPD with acute exacerbation,Emergency,7,17791.85,Follow-up with primary care
+315,92,21,2023-01-05,2023-01-21,E78.5,Hyperlipidemia,Newborn,16,37907.26,Patient responded well to treatment
+316,107,15,2021-03-21,2021-03-24,K80.20,Calculus of gallbladder,Elective,3,5454.37,Patient stable at discharge
+317,282,6,2021-06-29,2021-07-16,E11.9,Type 2 diabetes mellitus,Urgent,17,40403.87,Labs pending at discharge
+318,231,30,2020-10-11,2020-10-20,F32.1,Major depressive disorder,Newborn,9,11563.45,Referred to specialist
+319,43,19,2023-05-29,2023-06-02,E78.5,Hyperlipidemia,Emergency,4,,Monitoring for complications
+320,169,17,2020-01-26,2020-02-15,M17.11,Primary osteoarthritis right knee,Urgent,20,69913.88,Patient stable at discharge
+321,5,50,2024-04-21,2024-05-04,E11.40,Type 2 diabetes with diabetic neuropathy,Newborn,13,,Discharged with home health referral
+322,204,15,2021-08-29,2021-09-03,M17.11,Primary osteoarthritis right knee,Elective,5,11460.31,Referred to specialist
+323,44,21,2020-03-05,2020-03-20,A41.9,Sepsis unspecified,Newborn,15,34617.10,Discharged with home health referral
+324,157,48,2020-04-06,2020-04-20,G43.909,Migraine unspecified,Urgent,14,39649.27,Patient stable at discharge
+325,167,38,2019-11-11,2019-11-16,E11.9,Type 2 diabetes mellitus,Elective,5,12140.54,Labs pending at discharge
+326,105,26,2021-08-30,2021-09-02,I50.9,Heart failure unspecified,Elective,3,6057.44,
+327,54,44,2019-02-24,2019-03-02,R07.9,Chest pain unspecified,Newborn,6,19563.79,Patient stable at discharge
+328,269,5,2019-12-18,2020-01-01,S82.001A,Fracture of patella,Emergency,14,25983.78,
+329,215,31,2019-09-24,2019-09-27,I50.9,Heart failure unspecified,Elective,3,8148.34,Patient stable at discharge
+330,104,33,2020-02-18,2020-02-19,K80.20,Calculus of gallbladder,Urgent,1,2003.48,Monitoring for complications
+331,270,22,2021-07-31,2021-08-15,N20.0,Calculus of kidney,Newborn,15,41860.27,Follow-up with primary care
+332,178,45,2021-03-11,2021-03-31,R07.9,Chest pain unspecified,Urgent,20,61891.57,Labs pending at discharge
+333,235,25,2021-03-16,2021-03-20,M54.5,Low back pain,Emergency,4,4905.67,Requires follow-up in 2 weeks
+334,112,59,2019-06-06,2019-06-10,J18.9,Pneumonia unspecified,Urgent,4,11618.71,Monitoring for complications
+335,260,3,2021-02-19,2021-03-02,R07.9,Chest pain unspecified,Newborn,11,34216.46,
+336,59,46,2021-09-19,2021-10-04,J44.1,COPD with acute exacerbation,Newborn,15,34211.36,Discharged with home health referral
+337,242,53,2023-09-14,2023-09-19,I63.9,Cerebral infarction unspecified,Elective,5,7970.95,Requires follow-up in 2 weeks
+338,6,44,2019-12-31,2020-01-07,T14.90,Injury unspecified,Urgent,7,22471.80,Patient responded well to treatment
+339,268,42,2021-03-10,2021-03-18,M17.11,Primary osteoarthritis right knee,Emergency,8,6500.78,Monitoring for complications
+340,192,59,2021-05-13,2021-05-14,J18.9,Pneumonia unspecified,Emergency,1,1318.81,Requires follow-up in 2 weeks
+341,86,47,2023-07-29,2023-08-04,J44.1,COPD with acute exacerbation,Emergency,6,7870.67,Labs pending at discharge
+342,62,15,2019-12-22,2019-12-23,S82.001A,Fracture of patella,Urgent,1,1653.85,Requires follow-up in 2 weeks
+343,143,42,2023-12-19,2023-12-26,I10,Essential hypertension,Emergency,7,16918.63,
+344,275,51,2020-05-30,2020-06-04,E11.40,Type 2 diabetes with diabetic neuropathy,Elective,5,12516.80,Discharged with home health referral
+345,171,12,2024-06-25,2024-06-30,N20.0,Calculus of kidney,Urgent,16,13562.43,Monitoring for complications
+346,258,38,2019-02-13,2019-02-20,I21.0,ST-elevation myocardial infarction,Elective,7,11437.24,Requires follow-up in 2 weeks
+347,31,9,2019-11-07,2019-11-09,S82.001A,Fracture of patella,Elective,2,2885.55,Follow-up with primary care
+348,169,9,2021-12-02,2021-12-13,M17.11,Primary osteoarthritis right knee,Emergency,11,31091.36,Referred to specialist
+349,125,14,2022-05-30,2022-06-04,I50.9,Heart failure unspecified,Elective,5,,Requires follow-up in 2 weeks
+350,99,4,2019-09-15,2019-09-17,N18.3,Chronic kidney disease stage 3,Elective,2,6088.59,Requires follow-up in 2 weeks
+351,219,47,2020-05-16,2020-05-18,J18.9,Pneumonia unspecified,Elective,2,3236.74,Monitoring for complications
+352,140,56,2021-03-26,2021-04-08,E11.9,Type 2 diabetes mellitus,Urgent,13,25892.30,Discharged with home health referral
+353,247,2,2023-04-04,2023-04-14,A41.9,Sepsis unspecified,Emergency,10,22927.01,Patient stable at discharge
+354,233,19,2020-11-13,2020-11-25,L03.115,Cellulitis of right lower limb,Emergency,12,14613.07,
+355,257,47,2024-03-10,2024-03-24,N39.0,Urinary tract infection,Newborn,14,47884.62,Requires follow-up in 2 weeks
+356,210,57,2021-02-27,2021-03-02,I25.10,Atherosclerotic heart disease,Emergency,3,5934.01,Referred to specialist
+357,261,46,2022-08-26,2022-09-02,N18.3,Chronic kidney disease stage 3,Emergency,7,,Patient responded well to treatment
+358,76,17,2020-06-04,2020-06-09,M17.11,Primary osteoarthritis right knee,Elective,5,12945.16,
+359,48,42,2022-12-17,2023-01-05,I50.9,Heart failure unspecified,Newborn,19,19321.87,Discharged with home health referral
+360,219,17,2022-04-15,2022-04-25,E78.5,Hyperlipidemia,Newborn,10,28316.48,Requires follow-up in 2 weeks
+361,294,50,2020-07-04,2020-07-10,T14.90,Injury unspecified,Elective,6,9791.23,Patient responded well to treatment
+362,50,5,2022-09-02,2022-09-12,A41.9,Sepsis unspecified,Newborn,10,12607.12,Monitoring for complications
+363,250,12,2022-03-07,2022-03-14,R07.9,Chest pain unspecified,Newborn,7,6714.76,Patient stable at discharge
+364,210,29,2023-11-14,2023-11-17,Z38.00,Single liveborn infant,Emergency,3,3094.23,
+365,16,38,2019-01-20,2019-01-25,E11.40,Type 2 diabetes with diabetic neuropathy,Emergency,5,4097.56,Requires follow-up in 2 weeks
+366,109,34,2024-03-23,2024-04-08,I50.9,Heart failure unspecified,Urgent,16,27359.69,Referred to specialist
+367,162,53,2021-02-14,2021-03-06,G43.909,Migraine unspecified,Newborn,20,35225.58,
+368,234,56,2019-02-22,2019-02-23,K57.30,Diverticulosis of large intestine,Elective,1,1554.56,Referred to specialist
+369,232,40,2021-11-20,2021-12-04,E11.40,Type 2 diabetes with diabetic neuropathy,Newborn,14,11318.28,Referred to specialist
+370,9,41,2022-10-20,2022-11-04,K92.1,Melena,Urgent,15,31623.71,Referred to specialist
+371,220,60,2023-02-12,2023-02-17,N39.0,Urinary tract infection,Emergency,5,13611.22,Patient responded well to treatment
+372,66,32,2019-12-11,2019-12-26,I63.9,Cerebral infarction unspecified,Newborn,15,31527.83,Discharged with home health referral
+373,46,7,2019-11-25,2019-12-02,C50.911,Malignant neoplasm of breast,Emergency,7,9765.11,Requires follow-up in 2 weeks
+374,70,60,2023-06-18,2023-07-02,L03.115,Cellulitis of right lower limb,Emergency,14,32971.74,
+375,176,25,2022-09-01,2022-09-22,K57.30,Diverticulosis of large intestine,Newborn,21,71586.26,Patient stable at discharge
+376,60,19,2023-02-25,2023-03-16,L03.115,Cellulitis of right lower limb,Urgent,19,53398.89,Referred to specialist
+377,195,37,2022-04-23,2022-04-27,I63.9,Cerebral infarction unspecified,Emergency,4,13782.37,Discharged with home health referral
+378,267,43,2021-03-20,2021-03-29,C34.10,Malignant neoplasm of upper lobe bronchus,Emergency,9,14877.01,Monitoring for complications
+379,256,44,2023-03-10,2023-03-15,T14.90,Injury unspecified,Elective,5,10782.10,Follow-up with primary care
+380,111,32,2023-07-18,2023-07-21,K80.20,Calculus of gallbladder,Emergency,3,4105.97,Patient responded well to treatment
+381,92,55,2023-07-28,2023-08-03,J06.9,Acute upper respiratory infection,Urgent,6,13676.68,Referred to specialist
+382,201,26,2020-08-01,2020-08-08,K57.30,Diverticulosis of large intestine,Urgent,7,15957.39,Patient responded well to treatment
+383,156,30,2021-06-23,2021-06-26,L03.115,Cellulitis of right lower limb,Elective,3,4099.11,Patient responded well to treatment
+384,186,47,2021-02-10,2021-02-16,J18.9,Pneumonia unspecified,Elective,6,19800.96,Discharged with home health referral
+385,27,8,2022-04-30,2022-05-14,I48.91,Unspecified atrial fibrillation,Urgent,14,34899.56,
+386,124,26,2022-08-29,2022-09-05,C50.911,Malignant neoplasm of breast,Elective,7,20631.65,Labs pending at discharge
+387,141,41,2019-09-03,2019-09-05,S82.001A,Fracture of patella,Emergency,2,5063.61,Follow-up with primary care
+388,141,45,2021-02-25,2021-03-03,R07.9,Chest pain unspecified,Elective,6,9633.49,Discharged with home health referral
+389,208,53,2019-05-11,2019-05-28,I50.9,Heart failure unspecified,Newborn,17,38339.26,Monitoring for complications
+390,61,12,2019-01-11,2019-01-15,C50.911,Malignant neoplasm of breast,Elective,4,4528.89,Discharged with home health referral
+391,45,36,2024-06-29,2024-06-30,I10,Essential hypertension,Emergency,9,30680.51,Patient responded well to treatment
+392,128,20,2019-10-14,2019-11-02,G43.909,Migraine unspecified,Newborn,19,31253.62,Monitoring for complications
+393,51,43,2020-01-21,2020-01-26,C34.10,Malignant neoplasm of upper lobe bronchus,Emergency,5,6905.37,Referred to specialist
+394,143,9,2022-01-31,2022-02-05,A41.9,Sepsis unspecified,Emergency,5,16199.41,
+395,131,44,2019-05-25,2019-05-31,R07.9,Chest pain unspecified,Elective,6,15056.54,Discharged with home health referral
+396,215,53,2019-02-23,2019-03-15,G43.909,Migraine unspecified,Newborn,20,30586.76,Labs pending at discharge
+397,34,22,2023-05-13,2023-05-22,S82.001A,Fracture of patella,Urgent,9,26593.77,
+398,114,25,2019-12-26,2020-01-07,R07.9,Chest pain unspecified,Emergency,12,28678.00,
+399,179,45,2022-05-29,2022-06-02,I63.9,Cerebral infarction unspecified,Urgent,4,5044.07,Referred to specialist
+400,273,36,2022-04-28,2022-05-03,J06.9,Acute upper respiratory infection,Newborn,5,13269.89,Discharged with home health referral
+401,194,37,2022-12-19,2022-12-27,I10,Essential hypertension,Urgent,8,15434.06,Referred to specialist
+402,240,33,2020-09-17,2020-09-24,A41.9,Sepsis unspecified,Elective,7,11377.00,Requires follow-up in 2 weeks
+403,40,47,2022-03-24,2022-03-25,J18.9,Pneumonia unspecified,Elective,1,2296.23,Labs pending at discharge
+404,261,60,2021-11-20,2021-12-08,N39.0,Urinary tract infection,Newborn,18,34105.91,Patient responded well to treatment
+405,218,45,2023-02-22,2023-02-28,S82.001A,Fracture of patella,Elective,6,14639.45,Monitoring for complications
+406,90,5,2024-05-04,2024-05-06,N18.3,Chronic kidney disease stage 3,Urgent,2,3647.11,
+407,128,54,2020-08-17,2020-08-25,J06.9,Acute upper respiratory infection,Emergency,8,11002.22,Monitoring for complications
+408,157,60,2024-03-30,2024-04-09,I48.91,Unspecified atrial fibrillation,Emergency,10,,Patient stable at discharge
+409,182,7,2021-04-03,2021-04-04,N20.0,Calculus of kidney,Elective,1,2128.52,Discharged with home health referral
+410,211,8,2023-04-25,2023-04-27,I21.0,ST-elevation myocardial infarction,Elective,2,3621.27,Patient stable at discharge
+411,56,29,2019-10-14,2019-10-20,K80.20,Calculus of gallbladder,Elective,6,10619.64,Monitoring for complications
+412,146,3,2024-01-20,2024-01-22,T14.90,Injury unspecified,Urgent,2,2674.56,Patient stable at discharge
+413,61,27,2020-10-27,2020-11-01,G43.909,Migraine unspecified,Elective,5,14015.56,
+414,56,51,2021-10-21,2021-10-22,N18.3,Chronic kidney disease stage 3,Urgent,1,1438.56,Patient responded well to treatment
+415,223,31,2023-04-08,2023-04-12,N39.0,Urinary tract infection,Emergency,4,11075.88,Requires follow-up in 2 weeks
+416,135,45,2020-02-11,2020-02-27,T14.90,Injury unspecified,Newborn,16,47789.95,Discharged with home health referral
+417,97,55,2019-09-04,2019-09-08,A41.9,Sepsis unspecified,Elective,4,13896.31,Monitoring for complications
+418,47,56,2022-12-04,2022-12-25,I25.10,Atherosclerotic heart disease,Urgent,21,29374.66,
+419,219,42,2021-01-14,2021-01-23,J18.9,Pneumonia unspecified,Urgent,9,24491.53,Discharged with home health referral
+420,21,1,2020-08-07,2020-08-10,I48.91,Unspecified atrial fibrillation,Elective,3,3216.17,Referred to specialist
+421,172,20,2020-11-09,2020-11-15,I63.9,Cerebral infarction unspecified,Elective,6,16835.50,Monitoring for complications
+422,142,14,2019-09-25,2019-10-07,I21.0,ST-elevation myocardial infarction,Emergency,12,10929.66,Monitoring for complications
+423,99,46,2024-04-12,2024-04-22,N18.3,Chronic kidney disease stage 3,Emergency,10,27584.47,Discharged with home health referral
+424,23,9,2023-12-31,2024-01-18,M17.11,Primary osteoarthritis right knee,Urgent,18,57892.77,Labs pending at discharge
+425,35,31,2019-12-08,2019-12-13,I25.10,Atherosclerotic heart disease,Emergency,5,,Monitoring for complications
+426,204,32,2019-12-05,2019-12-18,E11.40,Type 2 diabetes with diabetic neuropathy,Emergency,13,30143.70,Monitoring for complications
+427,95,1,2023-12-06,2023-12-14,I50.9,Heart failure unspecified,Emergency,8,21964.51,Patient stable at discharge
+428,138,36,2021-12-28,2022-01-02,A41.9,Sepsis unspecified,Emergency,5,5999.88,Patient stable at discharge
+429,27,42,2021-12-30,2021-12-31,T14.90,Injury unspecified,Elective,1,2508.24,Patient stable at discharge
+430,69,27,2019-04-28,2019-05-19,I63.9,Cerebral infarction unspecified,Urgent,21,63516.93,Discharged with home health referral
+431,132,2,2024-04-20,2024-05-11,L03.115,Cellulitis of right lower limb,Newborn,21,52307.22,Follow-up with primary care
+432,113,21,2021-07-02,2021-07-08,T14.90,Injury unspecified,Elective,6,10771.97,
+433,93,30,2022-03-12,2022-03-18,F32.1,Major depressive disorder,Elective,6,9369.12,Labs pending at discharge
+434,97,5,2021-07-20,2021-07-24,A41.9,Sepsis unspecified,Elective,4,8889.21,Requires follow-up in 2 weeks
+435,194,25,2019-09-28,2019-10-11,L03.115,Cellulitis of right lower limb,Emergency,13,15406.51,
+436,5,51,2020-02-19,2020-02-27,N18.3,Chronic kidney disease stage 3,Emergency,8,25675.63,Follow-up with primary care
+437,80,16,2022-07-09,2022-07-27,C50.911,Malignant neoplasm of breast,Urgent,18,54491.35,Labs pending at discharge
+438,73,1,2021-05-24,2021-05-26,I21.0,ST-elevation myocardial infarction,Elective,2,3148.97,Requires follow-up in 2 weeks
+439,252,11,2024-05-12,2024-05-18,C34.10,Malignant neoplasm of upper lobe bronchus,Emergency,6,10206.34,Requires follow-up in 2 weeks
+440,23,39,2022-05-13,2022-05-19,A41.9,Sepsis unspecified,Urgent,6,7233.56,Patient stable at discharge
+441,179,57,2022-09-17,2022-09-29,I25.10,Atherosclerotic heart disease,Newborn,12,35867.31,
+442,2,56,2020-10-17,2020-10-21,N18.3,Chronic kidney disease stage 3,Elective,4,11805.99,Requires follow-up in 2 weeks
+443,296,28,2019-07-05,2019-07-07,K92.1,Melena,Elective,2,3679.09,Labs pending at discharge
+444,171,9,2021-02-23,2021-02-28,I48.91,Unspecified atrial fibrillation,Elective,5,11205.90,Labs pending at discharge
+445,43,38,2022-12-10,2022-12-12,E78.5,Hyperlipidemia,Elective,2,2697.71,Follow-up with primary care
+446,69,59,2023-10-05,2023-10-10,J44.1,COPD with acute exacerbation,Urgent,5,5945.89,Labs pending at discharge
+447,125,14,2019-08-29,2019-09-02,I10,Essential hypertension,Elective,4,10718.12,
+448,55,43,2019-03-03,2019-03-06,T14.90,Injury unspecified,Elective,3,,Labs pending at discharge
+449,77,49,2021-08-20,2021-09-03,L03.115,Cellulitis of right lower limb,Urgent,14,27982.20,
+450,57,10,2021-10-27,2021-10-28,J18.9,Pneumonia unspecified,Elective,1,1943.78,Patient stable at discharge
+451,293,33,2024-03-22,2024-03-28,C34.10,Malignant neoplasm of upper lobe bronchus,Newborn,6,6289.37,Monitoring for complications
+452,206,40,2023-08-12,2023-08-17,J06.9,Acute upper respiratory infection,Elective,5,15023.54,Labs pending at discharge
+453,195,11,2020-02-03,2020-02-12,L03.115,Cellulitis of right lower limb,Newborn,9,9090.75,Patient responded well to treatment
+454,123,19,2020-03-09,2020-03-10,L03.115,Cellulitis of right lower limb,Emergency,1,1634.62,Patient responded well to treatment
+455,124,18,2022-02-28,2022-03-01,L03.115,Cellulitis of right lower limb,Emergency,1,1051.67,Patient stable at discharge
+456,204,33,2023-01-26,2023-02-07,J06.9,Acute upper respiratory infection,Newborn,12,32366.08,Requires follow-up in 2 weeks
+457,258,52,2021-09-03,2021-09-22,I21.0,ST-elevation myocardial infarction,Newborn,19,17119.05,Requires follow-up in 2 weeks
+458,48,46,2023-04-24,2023-04-29,N18.3,Chronic kidney disease stage 3,Elective,5,13837.73,Referred to specialist
+459,230,51,2022-06-30,2022-07-14,N18.3,Chronic kidney disease stage 3,Urgent,14,38142.42,Requires follow-up in 2 weeks
+460,79,37,2023-07-07,2023-07-10,N39.0,Urinary tract infection,Emergency,3,4907.29,Requires follow-up in 2 weeks
+461,256,7,2019-11-27,2019-11-30,M54.5,Low back pain,Urgent,3,5342.96,Follow-up with primary care
+462,133,31,2022-08-24,2022-08-29,J06.9,Acute upper respiratory infection,Newborn,5,17117.69,Patient stable at discharge
+463,206,27,2021-06-21,2021-06-26,I25.10,Atherosclerotic heart disease,Elective,5,16852.61,Follow-up with primary care
+464,135,57,2022-06-25,2022-06-26,M17.11,Primary osteoarthritis right knee,Emergency,1,1461.01,
+465,54,19,2020-04-01,2020-04-15,L03.115,Cellulitis of right lower limb,Emergency,14,14734.42,Follow-up with primary care
+466,56,6,2023-04-23,2023-05-07,J18.9,Pneumonia unspecified,Newborn,14,23625.64,Follow-up with primary care
+467,109,45,2021-07-19,2021-07-21,J18.9,Pneumonia unspecified,Urgent,2,6722.08,Patient responded well to treatment
+468,195,4,2024-06-27,2024-06-30,S82.001A,Fracture of patella,Newborn,16,,Labs pending at discharge
+469,139,17,2019-05-22,2019-05-26,E11.9,Type 2 diabetes mellitus,Elective,4,12636.78,Monitoring for complications
+470,133,12,2020-12-01,2020-12-11,E11.9,Type 2 diabetes mellitus,Newborn,10,17430.46,Discharged with home health referral
+471,224,23,2023-08-13,2023-08-14,L03.115,Cellulitis of right lower limb,Newborn,1,3213.20,Discharged with home health referral
+472,166,43,2019-01-30,2019-02-04,K57.30,Diverticulosis of large intestine,Urgent,5,16606.56,Labs pending at discharge
+473,135,34,2022-07-23,2022-07-29,K80.20,Calculus of gallbladder,Elective,6,6378.63,Labs pending at discharge
+474,280,50,2020-12-13,2020-12-15,E11.40,Type 2 diabetes with diabetic neuropathy,Elective,2,,Patient responded well to treatment
+475,155,58,2022-08-21,2022-09-05,I21.0,ST-elevation myocardial infarction,Newborn,15,26245.02,Referred to specialist
+476,59,60,2019-12-29,2020-01-16,L03.115,Cellulitis of right lower limb,Urgent,18,40778.28,Labs pending at discharge
+477,146,45,2019-06-29,2019-07-01,I25.10,Atherosclerotic heart disease,Emergency,2,4927.81,Requires follow-up in 2 weeks
+478,228,33,2023-10-11,2023-10-25,I10,Essential hypertension,Urgent,14,40566.07,
+479,241,8,2024-02-03,2024-02-24,T14.90,Injury unspecified,Newborn,21,,Monitoring for complications
+480,260,19,2023-09-14,2023-09-28,L03.115,Cellulitis of right lower limb,Urgent,14,11357.16,
+481,14,10,2020-11-17,2020-11-23,T14.90,Injury unspecified,Urgent,6,20883.83,Monitoring for complications
+482,202,54,2019-09-21,2019-10-12,I25.10,Atherosclerotic heart disease,Newborn,21,58083.99,Discharged with home health referral
+483,224,15,2022-07-17,2022-07-30,M54.5,Low back pain,Emergency,13,37152.23,Discharged with home health referral
+484,166,14,2019-01-24,2019-02-14,I21.0,ST-elevation myocardial infarction,Newborn,21,25477.86,Requires follow-up in 2 weeks
+485,293,25,2022-07-23,2022-08-13,L03.115,Cellulitis of right lower limb,Newborn,21,27377.68,Monitoring for complications
+486,275,54,2023-04-27,2023-05-06,J06.9,Acute upper respiratory infection,Newborn,9,13881.65,Requires follow-up in 2 weeks
+487,57,30,2019-10-18,2019-10-23,J18.9,Pneumonia unspecified,Emergency,5,5252.49,Monitoring for complications
+488,201,7,2019-05-31,2019-06-16,I21.0,ST-elevation myocardial infarction,Newborn,16,16096.71,Referred to specialist
+489,231,52,2024-01-25,2024-02-05,G43.909,Migraine unspecified,Emergency,11,,Referred to specialist
+490,248,40,2021-12-04,2021-12-05,I10,Essential hypertension,Elective,1,,Discharged with home health referral
+491,111,56,2020-11-01,2020-11-05,I50.9,Heart failure unspecified,Emergency,4,10669.30,Monitoring for complications
+492,48,23,2021-08-14,2021-08-30,I48.91,Unspecified atrial fibrillation,Urgent,16,53682.13,Monitoring for complications
+493,144,26,2019-12-06,2019-12-13,R07.9,Chest pain unspecified,Urgent,7,14820.02,Patient stable at discharge
+494,164,40,2020-02-14,2020-03-04,J06.9,Acute upper respiratory infection,Newborn,19,61262.00,Patient responded well to treatment
+495,262,17,2021-03-26,2021-03-27,S82.001A,Fracture of patella,Urgent,1,2984.41,Monitoring for complications
+496,38,14,2023-05-16,,S82.001A,Fracture of patella,Elective,1,2658.39,Referred to specialist
+497,120,36,2021-12-15,2021-12-16,E78.5,Hyperlipidemia,Elective,1,2733.92,Requires follow-up in 2 weeks
+498,294,58,2020-10-12,2020-10-23,M17.11,Primary osteoarthritis right knee,Newborn,11,10274.89,
+499,141,27,2022-05-16,2022-05-21,G43.909,Migraine unspecified,Elective,5,11781.59,Patient responded well to treatment
+500,237,19,2024-01-09,2024-01-18,L03.115,Cellulitis of right lower limb,Emergency,9,22868.05,
+501,213,47,2021-03-30,2021-04-02,J44.1,COPD with acute exacerbation,Urgent,3,4936.71,Follow-up with primary care
+502,253,55,2023-09-23,2023-10-03,I25.10,Atherosclerotic heart disease,Emergency,10,14048.39,
+503,166,56,2019-12-15,2019-12-17,A41.9,Sepsis unspecified,Elective,2,5986.32,Patient responded well to treatment
+504,27,17,2019-04-09,2019-04-11,I10,Essential hypertension,Emergency,2,5314.78,Discharged with home health referral
+505,71,38,2023-11-01,2023-11-06,E11.9,Type 2 diabetes mellitus,Urgent,5,15985.28,Follow-up with primary care
+506,63,34,2024-06-22,2024-06-30,L03.115,Cellulitis of right lower limb,Newborn,9,24960.01,Patient stable at discharge
+507,43,23,2022-11-24,2022-11-25,I63.9,Cerebral infarction unspecified,Elective,1,,Labs pending at discharge
+508,97,32,2023-04-07,2023-04-17,K92.1,Melena,Urgent,10,25692.81,
+509,67,15,2023-11-13,2023-12-03,I50.9,Heart failure unspecified,Newborn,20,58121.14,Discharged with home health referral
+510,158,56,2021-08-02,2021-08-08,I21.0,ST-elevation myocardial infarction,Elective,6,5068.72,Follow-up with primary care
+511,272,29,2020-12-26,2020-12-30,L03.115,Cellulitis of right lower limb,Emergency,4,8623.66,
+512,140,24,2020-02-02,2020-02-12,F32.1,Major depressive disorder,Newborn,10,12769.42,Labs pending at discharge
+513,56,44,2020-03-25,2020-03-26,R07.9,Chest pain unspecified,Emergency,1,2353.12,Patient stable at discharge
+514,116,57,2021-03-13,2021-03-26,C50.911,Malignant neoplasm of breast,Newborn,13,36160.75,Monitoring for complications
+515,88,51,2023-02-11,2023-02-12,N18.3,Chronic kidney disease stage 3,Urgent,1,2158.75,Patient stable at discharge
+516,123,11,2020-01-19,2020-01-23,L03.115,Cellulitis of right lower limb,Elective,4,3337.54,Discharged with home health referral
+517,136,57,2022-05-01,2022-05-09,M17.11,Primary osteoarthritis right knee,Emergency,8,16947.44,
+518,9,37,2021-12-11,2021-12-13,I63.9,Cerebral infarction unspecified,Elective,2,5786.39,Referred to specialist
+519,232,32,2022-09-20,2022-10-06,G43.909,Migraine unspecified,Urgent,16,32618.03,Referred to specialist
+520,266,50,2019-08-19,2019-08-28,E11.40,Type 2 diabetes with diabetic neuropathy,Newborn,9,,Monitoring for complications
+521,73,23,2021-01-06,2021-01-13,I63.9,Cerebral infarction unspecified,Newborn,7,9263.62,Patient stable at discharge
+522,279,58,2020-06-27,2020-06-30,N20.0,Calculus of kidney,Elective,3,5780.08,Patient responded well to treatment
+523,297,34,2021-06-06,2021-06-16,T14.90,Injury unspecified,Emergency,10,29393.19,Follow-up with primary care
+524,76,30,2022-07-01,2022-07-19,E78.5,Hyperlipidemia,Urgent,18,29157.18,Patient responded well to treatment
+525,233,3,2021-09-27,2021-09-28,R07.9,Chest pain unspecified,Emergency,1,,Referred to specialist
+526,146,51,2024-05-07,2024-05-13,M17.11,Primary osteoarthritis right knee,Elective,6,20933.81,Requires follow-up in 2 weeks
+527,149,15,2023-07-21,2023-07-25,S82.001A,Fracture of patella,Elective,4,13642.59,Patient stable at discharge
+528,160,12,2022-10-31,2022-11-03,T14.90,Injury unspecified,Elective,3,6889.70,
+529,291,60,2021-02-08,2021-02-09,G43.909,Migraine unspecified,Elective,1,1993.13,Referred to specialist
+530,240,23,2021-08-02,2021-08-03,G43.909,Migraine unspecified,Newborn,1,871.34,
+531,72,40,2022-04-03,2022-04-06,R07.9,Chest pain unspecified,Elective,3,6800.48,Labs pending at discharge
+532,65,26,2023-09-15,2023-09-17,K80.20,Calculus of gallbladder,Newborn,2,3058.94,
+533,50,53,2023-11-06,2023-11-08,G43.909,Migraine unspecified,Urgent,2,4756.93,Monitoring for complications
+534,265,10,2020-04-02,2020-04-09,J44.1,COPD with acute exacerbation,Elective,7,17473.73,Follow-up with primary care
+535,103,8,2021-11-30,2021-12-04,R07.9,Chest pain unspecified,Emergency,4,8316.42,Patient responded well to treatment
+536,63,20,2023-09-20,2023-09-23,I63.9,Cerebral infarction unspecified,Elective,3,7918.70,Labs pending at discharge
+537,75,41,2019-12-16,2019-12-22,K92.1,Melena,Elective,6,8045.69,Requires follow-up in 2 weeks
+538,253,24,2022-11-29,2022-12-03,I50.9,Heart failure unspecified,Newborn,4,11985.73,Requires follow-up in 2 weeks
+539,289,25,2022-08-14,2022-08-25,L03.115,Cellulitis of right lower limb,Emergency,11,10066.16,Follow-up with primary care
+540,235,18,2021-10-22,2021-11-08,M54.5,Low back pain,Urgent,17,55027.07,Discharged with home health referral
+541,78,23,2021-07-30,2021-08-04,L03.115,Cellulitis of right lower limb,Urgent,5,14295.20,Follow-up with primary care
+542,193,31,2019-09-23,2019-10-04,M54.5,Low back pain,Urgent,11,26047.52,Requires follow-up in 2 weeks
+543,24,2,2019-07-17,2019-07-21,M54.5,Low back pain,Elective,4,8345.26,Monitoring for complications
+544,54,58,2023-03-28,2023-04-11,K57.30,Diverticulosis of large intestine,Newborn,14,13540.83,
+545,38,29,2024-03-06,2024-03-12,Z38.00,Single liveborn infant,Emergency,6,12082.06,Monitoring for complications
+546,101,17,2020-04-06,2020-04-13,M17.11,Primary osteoarthritis right knee,Urgent,7,13803.79,Requires follow-up in 2 weeks
+547,299,2,2020-02-21,2020-03-05,M17.11,Primary osteoarthritis right knee,Emergency,13,10583.79,Requires follow-up in 2 weeks
+548,175,12,2020-01-25,2020-02-01,I25.10,Atherosclerotic heart disease,Newborn,7,14553.55,Discharged with home health referral
+549,35,29,2022-03-11,2022-03-14,L03.115,Cellulitis of right lower limb,Emergency,3,4815.64,Referred to specialist
+550,12,15,2021-03-10,2021-03-22,I63.9,Cerebral infarction unspecified,Urgent,12,37835.74,
+551,295,16,2021-03-28,2021-04-17,I25.10,Atherosclerotic heart disease,Urgent,20,53665.97,Patient stable at discharge
+552,16,3,2020-11-16,2020-11-18,T14.90,Injury unspecified,Elective,2,6010.52,Patient responded well to treatment
+553,121,32,2020-12-09,2020-12-16,K57.30,Diverticulosis of large intestine,Emergency,7,17174.98,Discharged with home health referral
+554,139,47,2021-11-05,2021-11-13,J18.9,Pneumonia unspecified,Newborn,8,15720.74,Monitoring for complications
+555,11,60,2022-10-28,2022-10-29,L03.115,Cellulitis of right lower limb,Newborn,1,940.78,Labs pending at discharge
+556,219,36,2024-01-12,2024-01-18,J06.9,Acute upper respiratory infection,Emergency,6,10358.64,Requires follow-up in 2 weeks
+557,6,15,2023-07-01,2023-07-15,M17.11,Primary osteoarthritis right knee,Emergency,14,41917.11,
+558,93,19,2020-08-21,2020-08-26,L03.115,Cellulitis of right lower limb,Elective,5,12877.37,
+559,279,14,2021-06-27,2021-06-30,I48.91,Unspecified atrial fibrillation,Elective,3,4770.74,Patient stable at discharge
+560,164,45,2020-12-10,2020-12-22,J18.9,Pneumonia unspecified,Emergency,12,25353.13,Monitoring for complications
+561,157,48,2023-01-24,2023-01-29,I63.9,Cerebral infarction unspecified,Urgent,5,7173.92,Requires follow-up in 2 weeks
+562,11,32,2022-04-19,2022-05-02,K92.1,Melena,Urgent,13,44274.89,Labs pending at discharge
+563,254,2,2019-04-01,2019-04-09,I50.9,Heart failure unspecified,Newborn,8,10383.62,
+564,157,3,2024-02-07,2024-02-20,T14.90,Injury unspecified,Emergency,13,42786.72,Monitoring for complications
+565,15,22,2023-11-09,2023-11-23,Z38.00,Single liveborn infant,Newborn,14,46299.81,Labs pending at discharge
+566,148,55,2021-05-18,2021-06-06,G43.909,Migraine unspecified,Newborn,19,54650.33,Follow-up with primary care
+567,122,9,2019-06-25,2019-07-03,K92.1,Melena,Urgent,8,12789.82,
+568,141,24,2019-09-12,2019-09-22,F32.1,Major depressive disorder,Emergency,10,30571.99,Patient responded well to treatment
+569,226,1,2022-07-30,2022-08-17,I48.91,Unspecified atrial fibrillation,Newborn,18,17247.22,Referred to specialist
+570,33,29,2023-11-15,2023-12-01,L03.115,Cellulitis of right lower limb,Urgent,16,40030.61,Patient responded well to treatment
+571,120,8,2022-04-02,2022-04-13,M54.5,Low back pain,Newborn,11,30105.52,Patient stable at discharge
+572,132,2,2022-01-11,2022-01-13,E11.40,Type 2 diabetes with diabetic neuropathy,Urgent,2,3488.54,Requires follow-up in 2 weeks
+573,122,14,2019-05-27,2019-06-17,I48.91,Unspecified atrial fibrillation,Newborn,21,,Referred to specialist
+574,172,27,2024-04-14,2024-04-24,S82.001A,Fracture of patella,Newborn,10,,Patient responded well to treatment
+575,55,39,2024-04-08,2024-04-15,J44.1,COPD with acute exacerbation,Urgent,7,16612.77,Requires follow-up in 2 weeks
+576,40,60,2022-01-08,2022-01-12,L03.115,Cellulitis of right lower limb,Newborn,4,8899.77,Follow-up with primary care
+577,163,18,2024-02-09,2024-02-17,L03.115,Cellulitis of right lower limb,Urgent,8,23658.53,Referred to specialist
+578,60,45,2021-01-11,2021-01-14,K57.30,Diverticulosis of large intestine,Newborn,3,6495.71,Monitoring for complications
+579,230,51,2023-05-10,2023-05-16,N18.3,Chronic kidney disease stage 3,Elective,6,7037.87,Referred to specialist
+580,61,6,2022-03-25,2022-03-31,E78.5,Hyperlipidemia,Elective,6,8009.29,Discharged with home health referral
+581,62,27,2019-09-16,2019-09-30,G43.909,Migraine unspecified,Emergency,14,37283.76,
+582,272,59,2019-09-19,2019-10-02,J44.1,COPD with acute exacerbation,Urgent,13,18874.37,Referred to specialist
+583,56,47,2024-02-09,2024-02-23,J44.1,COPD with acute exacerbation,Newborn,14,39198.36,Discharged with home health referral
+584,94,47,2019-11-08,2019-11-18,I25.10,Atherosclerotic heart disease,Emergency,10,26195.49,Discharged with home health referral
+585,261,47,2020-08-31,2020-09-03,J18.9,Pneumonia unspecified,Elective,3,6593.19,Labs pending at discharge
+586,147,21,2019-03-27,2019-03-31,R07.9,Chest pain unspecified,Elective,4,9411.49,
+587,146,11,2021-06-17,2021-06-25,L03.115,Cellulitis of right lower limb,Newborn,8,12631.14,Requires follow-up in 2 weeks
+588,119,43,2022-02-04,2022-02-11,R07.9,Chest pain unspecified,Elective,7,,Monitoring for complications
+589,4,32,2020-02-21,2020-03-02,I21.0,ST-elevation myocardial infarction,Urgent,10,23421.46,Follow-up with primary care
+590,152,59,2023-12-26,2024-01-09,J18.9,Pneumonia unspecified,Newborn,14,14483.45,Requires follow-up in 2 weeks
+591,182,52,2020-10-31,2020-11-09,I63.9,Cerebral infarction unspecified,Emergency,9,18219.18,Requires follow-up in 2 weeks
+592,162,58,2024-03-24,2024-03-30,A41.9,Sepsis unspecified,Emergency,6,13842.36,Patient responded well to treatment
+593,126,9,2020-06-27,2020-06-29,M54.5,Low back pain,Elective,2,2610.37,
+594,46,34,2019-01-07,2019-01-08,K57.30,Diverticulosis of large intestine,Elective,1,2450.29,
+595,135,40,2021-09-18,2021-10-05,A41.9,Sepsis unspecified,Urgent,17,21864.95,Patient stable at discharge
+596,249,32,2022-01-17,2022-02-02,I50.9,Heart failure unspecified,Urgent,16,22257.80,Patient stable at discharge
+597,215,29,2019-12-27,2020-01-02,L03.115,Cellulitis of right lower limb,Emergency,6,10430.77,
+598,248,54,2022-11-08,,N39.0,Urinary tract infection,Newborn,8,12187.16,Labs pending at discharge
+599,32,36,2021-04-22,2021-05-05,K92.1,Melena,Urgent,13,25324.49,
+600,249,47,2021-07-05,2021-07-19,J18.9,Pneumonia unspecified,Urgent,14,44298.51,Requires follow-up in 2 weeks
